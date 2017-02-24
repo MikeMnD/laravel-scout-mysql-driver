@@ -6,7 +6,7 @@
         {
             "name": "Mihail Ilinov",
             "email": "mihail@ilinov.eu"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "require": {
