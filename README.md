@@ -24,7 +24,7 @@ your project and apply the `Laravel\Scout\Searchable` trait to any Eloquent mode
 
 Install this package via **Composer**
      
-`composer require damiantw/laravel-scout-mysql-driver`
+`composer require mikemnd/laravel-scout-mysql-driver`
 
 
 Next add the ServiceProvider to the Package Service Providers in `config/app.php`
